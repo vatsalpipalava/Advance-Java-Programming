@@ -1,6 +1,6 @@
 All practical program of subject Advance Java Programming
 
-----------------------------------------------------------------CO1 Practicals------------------------------------------------------------------------------
+-----------------------------------------------CO1 Practicals---------------------------------------------------
 1. Write a TCP Client-Server program to get the Date & Time details from Server on the Client request.
 2. Write a UDP Client-Server program in which the Client sends a string and the Server responds with the Reverse of a string.
 3. Write a client server program using TCP where client sends a string and server checks whether that string is palindrome or not and responds with an appropriate message.
