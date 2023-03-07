@@ -9,6 +9,7 @@ All practical program of subject Advance Java Programming
 6. User can create a new database and also create new tables under that database. Once database has been created then the user can perform database CRUD operations by calling above functions. Use following to implement program: a) Statement b) Prepared statement c) Callable statement
 
 ----------------------------------------------------------------CO2 Practicals------------------------------------------------------------------------------
+
 7. Create a Servlet file and study web descriptor files.
 8. Create a servlet that prints today’s date.
 9. Create a servlet that displays some header information from your request as well as any form data.
