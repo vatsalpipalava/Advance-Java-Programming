@@ -20,10 +20,13 @@ All practical program of subject Advance Java Programming
 14. Develop a JSP page to display student information with subjects for particular semester from database.
 
 ----------------------------------------------------------------CO3 Practicals------------------------------------------------------------------------------
+
 15. Implement the login application with the use of JSF.
 
 ----------------------------------------------------------------CO4 Practicals------------------------------------------------------------------------------
+
 16. Study and implement Hibernate.
 
 ----------------------------------------------------------------CO5 Practicals------------------------------------------------------------------------------
+
 17. Study and Implement MVC using Spring Framework.
